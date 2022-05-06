@@ -7,6 +7,8 @@ public class HomeWorkApp {
         checkSumSign();
         printColor();
         compareNumbers();
+        Class c = "привет".getClass();
+        System.out.println(c);
 	// write your code here
     }
 
@@ -46,4 +48,5 @@ public class HomeWorkApp {
             System.out.println("a < b");
         }
     }
+
 }
